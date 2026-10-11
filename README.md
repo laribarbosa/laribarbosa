@@ -31,9 +31,8 @@ evoluir nas áreas de dados, aproximando o que aprendo na graduação do que uso
 
 📚 Projetos acadêmicos
 
-- [API Pedidos](link) · API REST de clientes, produtos e pedidos com FastAPI, PostgreSQL e Docker
-- [Ordenação de dados](link) · Python: ordena arquivos CSV e compara tempo de execução e número de ciclos
-- [KeyFace](link) · Autenticação por reconhecimento facial (FastAPI, DeepFace), desenvolvida como APS
+- [API Pedidos]([link](https://github.com/laribarbosa/API_PEDIDOS)) · API REST de clientes, produtos e pedidos com FastAPI, PostgreSQL e Docker
+- [KeyFace]([link](https://github.com/laribarbosa/keyface-autenticacao-facial)) · Autenticação por reconhecimento facial (FastAPI, DeepFace), desenvolvida como APS
 
 🎓 Formação
 
