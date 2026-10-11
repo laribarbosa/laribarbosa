@@ -1,4 +1,4 @@
-# Olá rede, me chamo Larissa Barbosa 😉
+# Olá, me chamo Larissa Barbosa 😉
 
 Sou analista de dados jr. e estudante de Ciência da Computação na Universidade Paulista (UNIP).
 
@@ -7,7 +7,7 @@ Sou analista de dados jr. e estudante de Ciência da Computação na Universidad
 Trabalho com análise de dados na área comercial de uma empresa de varejo,
 transformando dados de vendas em informações que apoiam decisões do negócio.
 Comecei como estagiária e fui efetivada como Analista de Dados Jr. Hoje busco
-evoluir nas áreas de dados, aproximando o que aprendo na graduação do que uso no dia a dia.🚀
+evoluir nas áreas de dados, aproximando o que aprendo na graduação do que uso no dia a dia.
 
 💻 O que faço no dia a dia
 
