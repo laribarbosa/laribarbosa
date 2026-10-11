@@ -41,4 +41,4 @@ Ciência da Computação · Universidade Paulista (UNIP) · Cursando
 
 📲 Contato
 
-- LinkedIn: <www.linkedin.com/in/larissa-barbosa-b29284250>
+- LinkedIn: www.linkedin.com/in/larissa-barbosa-b29284250
